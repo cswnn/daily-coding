@@ -2,6 +2,10 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42577) 
 
+### 메모
+
+접두어인 경우만을 취급함에 유의
+
 ### 성능 요약
 
 메모리: 39.3 MB, 시간: 377.04 ms
