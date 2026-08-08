@@ -22,8 +22,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <!-- 해시(Hash) 섹션                      ============================== -->
     <tr>
       <td rowspan="3"><b>Hash</b></td>
-      <td>예시</td>
-      <td>Level 1</td>
+      <td>전화번호 목록</td>
+      <td>Level 2</td>
       <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
     </tr>
     <tr>
