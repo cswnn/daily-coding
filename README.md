@@ -39,9 +39,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <!-- Stack / Queue 섹션                  ============================== --> 
     <tr>
       <td rowspan="2"><b>Stack / Queue</b></td>
-      <td>예시</td>
-      <td>Level 1</td>
-      <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
+      <td>기능개발</td>
+      <td>Level 2</td>
+      <td><a href="프로그래머스/2/42586. 기능개발/기능개발.py">보러가기</a></td>
     </tr>
     <tr>
       <td>예시</td>
