@@ -75,9 +75,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <!-- 완전탐색(Brute-Force Search) 섹션     ============================== --> 
     <tr>
       <td rowspan="2"><b>Brute-Force</b></td>
-      <td>예시</td>
-      <td>Level 1</td>
-      <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
+      <td>소수찾기</td>
+      <td>Level 2</td>
+      <td><a href="프로그래머스/2/42839. 소수 찾기/소수 찾기.py">보러가기</a></td>
     </tr>
     <tr>
       <td>예시</td>
