@@ -87,9 +87,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <!-- 탐욕법(Greedy) 섹션                   ============================== --> 
     <tr>
       <td rowspan="2"><b>Greedy</b></td>
-      <td>예시</td>
+      <td>조이스틱</td>
       <td>Level 1</td>
-      <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
+      <td><a href="프로그래머스/2/42860. 조이스틱/조이스틱.py">보러가기</a></td>
     </tr>
     <tr>
       <td>예시</td>
