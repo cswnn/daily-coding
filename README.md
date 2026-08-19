@@ -88,7 +88,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <tr>
       <td rowspan="2"><b>Greedy</b></td>
       <td>조이스틱</td>
-      <td>Level 1</td>
+      <td>Level 2</td>
       <td><a href="프로그래머스/2/42860. 조이스틱/조이스틱.py">보러가기</a></td>
     </tr>
     <tr>
