@@ -170,9 +170,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     </tr>
     <tr>
       <td>2</td>
-      <td>예시</td>
+      <td>자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기</td>
       <td>Level 2</td>
-      <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
+      <td><a href="프로그래머스/2/151137. 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기/자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기.sql">보러가기</a></td>
     </tr>
     <tr>
       <td>3</td>
