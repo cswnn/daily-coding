@@ -165,7 +165,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <tr>
       <td>1</td>
       <td>즐겨찾기가 가장 많은 식당 정보 출력하기</td>
-      <td>Level 2</td>
+      <td>Level 3</td>
       <td><a href="프로그래머스/3/131123. 즐겨찾기가 가장 많은 식당 정보 출력하기/즐겨찾기가 가장 많은 식당 정보 출력하기.sql">보러가기</a></td>
     </tr>
     <tr>
