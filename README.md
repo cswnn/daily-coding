@@ -111,9 +111,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <!-- 깊이/너비 우선 탐색(DFS / BFS) 섹션      ============================== -->
     <tr>
       <td rowspan="99"><b>DFS / BFS</b></td>
-      <td>예시</td>
+      <td>타겟넘버</td>
       <td>Level 2</td>
-      <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
+      <td><a href="프로그래머스/2/43165. 타겟 넘버/타겟 넘버.py">보러가기</a></td>
     </tr>
     <tr>
       <td>예시</td>
