@@ -27,9 +27,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td><a href="프로그래머스/2/42577. 전화번호 목록/전화번호 목록.py">보러가기</a></td>
     </tr>
     <tr>
-      <td>예시</td>
+      <td>의상</td>
       <td>Level 2</td>
-      <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
+      <td><a href="프로그래머스/2/42578. 의상/의상.py">보러가기</a></td>
     </tr>
     <tr>
       <td>예시</td>
