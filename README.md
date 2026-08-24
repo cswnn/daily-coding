@@ -44,9 +44,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td><a href="프로그래머스/2/42586. 기능개발/기능개발.py">보러가기</a></td>
     </tr>
     <tr>
-      <td>예시</td>
+      <td>올바른 괄호</td>
       <td>Level 2</td>
-      <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
+      <td><a href="프로그래머스/2/12909. 올바른 괄호/올바른 괄호.py">보러가기</a></td>
     </tr>
     <!-- Heap 섹션                           ============================== --> 
     <tr>
