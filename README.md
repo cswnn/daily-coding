@@ -68,9 +68,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td><a href="프로그래머스/2/42746. 가장 큰 수/가장 큰 수.py">보러가기</a></td>
     </tr>
     <tr>
-      <td>예시</td>
+      <td>H－Index</td>
       <td>Level 2</td>
-      <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
+      <td><a href="프로그래머스/2/42747. H－Index/H－Index.py">보러가기</a></td>
     </tr>
     <!-- 완전탐색(Brute-Force Search) 섹션     ============================== --> 
     <tr>
