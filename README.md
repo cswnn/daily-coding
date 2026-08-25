@@ -187,22 +187,22 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td><a href="프로그래머스/3/151139. 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기/대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기.sql">보러가기</a></td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>조건에 맞는 사용자와 총 거래금액 조회하기</td>
       <td>Level 3</td>
       <td><a href="프로그래머스/3/164668. 조건에 맞는 사용자와 총 거래금액 조회하기/조건에 맞는 사용자와 총 거래금액 조회하기.sql">보러가기</a></td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>고양이와 개는 몇 마리 있을까</td>
-      <td>Level 3</td>
+      <td>Level 2</td>
       <td><a href="프로그래머스/2/59040. 고양이와 개는 몇 마리 있을까/고양이와 개는 몇 마리 있을까.sql">보러가기</a></td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>카테고리별 도서 판매량 집계하기</td>
-      <td>Level 3</td>
-      <td><a href="프로그래머스/3/144855. 카테고리 별 도서 판매량 집계하기/카테고리 별 도서 판매량 집계하기.sql">보러가기</a></td>
+      <td>7</td>
+      <td>동명 동물 수 찾기</td>
+      <td>Level 2</td>
+      <td><a href="프로그래머스/2/59041. 동명 동물 수 찾기/동명 동물 수 찾기.sql">보러가기</a></td>
     </tr>
       
   </tbody>
