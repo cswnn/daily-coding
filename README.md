@@ -186,6 +186,24 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td>Level 3</td>
       <td><a href="프로그래머스/3/151139. 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기/대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기.sql">보러가기</a></td>
     </tr>
+    <tr>
+      <td>3</td>
+      <td>카테고리별 도서 판매량 집계하기</td>
+      <td>Level 3</td>
+      <td><a href="프로그래머스/3/144855. 카테고리 별 도서 판매량 집계하기/카테고리 별 도서 판매량 집계하기.sql">보러가기</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>카테고리별 도서 판매량 집계하기</td>
+      <td>Level 3</td>
+      <td><a href="프로그래머스/3/144855. 카테고리 별 도서 판매량 집계하기/카테고리 별 도서 판매량 집계하기.sql">보러가기</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>카테고리별 도서 판매량 집계하기</td>
+      <td>Level 3</td>
+      <td><a href="프로그래머스/3/144855. 카테고리 별 도서 판매량 집계하기/카테고리 별 도서 판매량 집계하기.sql">보러가기</a></td>
+    </tr>
       
   </tbody>
 </table>
