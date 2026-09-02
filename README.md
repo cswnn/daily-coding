@@ -207,3 +207,25 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       
   </tbody>
 </table>
+
+## ❌ 스스로 못 푼 문제
+
+<table>
+  <thead>
+    <tr>
+      <th>순번</th>
+      <th>문제 이름</th>
+      <th>종류</th>
+      <th>난이도</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>큰 수 만들기</td>
+      <td>알고리즘(탐욕법)</td>
+      <td>Level 2</td>
+    </tr>
+      
+  </tbody>
+</table>
