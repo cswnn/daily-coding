@@ -92,9 +92,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td><a href="프로그래머스/2/42860. 조이스틱/조이스틱.py">보러가기</a></td>
     </tr>
     <tr>
-      <td>예시</td>
+      <td>큰 수 만들기</td>
       <td>Level 2</td>
-      <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
+      <td><a href="프로그래머스/2/42883. 큰 수 만들기/큰 수 만들기.py">보러가기</a></td>
     </tr>
     <!-- 동적계획법(Dynamic Programming) 섹션   ============================== --> 
     <tr>
