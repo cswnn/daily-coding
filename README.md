@@ -38,7 +38,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     </tr>
     <!-- Stack / Queue 섹션                  ============================== --> 
     <tr>
-      <td rowspan="2"><b>Stack / Queue</b></td>
+      <td rowspan="3"><b>Stack / Queue</b></td>
       <td>기능개발</td>
       <td>Level 2</td>
       <td><a href="프로그래머스/2/42586. 기능개발/기능개발.py">보러가기</a></td>
@@ -47,6 +47,11 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td>올바른 괄호</td>
       <td>Level 2</td>
       <td><a href="프로그래머스/2/12909. 올바른 괄호/올바른 괄호.py">보러가기</a></td>
+    </tr>
+    <tr>
+      <td>프로세스</td>
+      <td>Level 2</td>
+      <td><a href="프로그래머스/2/42587. 프로세스/프로세스.py">보러가기</a></td>
     </tr>
     <!-- Heap 섹션                           ============================== --> 
     <tr>
