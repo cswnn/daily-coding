@@ -8,7 +8,7 @@ def solution(n, computers):
     def dfs(v):
         visited[v] = 1 # 방문 처리
         for next_v in range(n):
-            # 연결 O, 방분 X
+            # 연결 O, 방문 X
             if not visited[next_v] and computers[v][next_v]:
                 dfs(next_v)
 
