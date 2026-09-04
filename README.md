@@ -231,6 +231,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td>알고리즘(탐욕법)</td>
       <td>Level 2</td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>N으로 표현</td>
+      <td>알고리즘(DP)</td>
+      <td>Level 3</td>
+    </tr>
       
   </tbody>
 </table>
