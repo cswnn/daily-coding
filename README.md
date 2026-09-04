@@ -56,7 +56,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <tr>
       <td>다리를 지나는 트럭</td>
       <td>Level 2</td>
-      <td><a href="프로그래머스/2/42583. 다리를 지나는 트럭/다리를 지나는 트럭.py">보러가기</a></td>
+      <td><a href="프로그래머스/2/42583. 다리를 지나는 트럭/다리를 지나는 트럭.py">보러가기</a></td>
     </tr>
     <!-- Heap 섹션                           ============================== --> 
     <tr>
