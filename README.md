@@ -104,9 +104,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <!-- 동적계획법(Dynamic Programming) 섹션   ============================== --> 
     <tr>
       <td rowspan="2"><b>DP</b></td>
-      <td>예시</td>
-      <td>Level 1</td>
-      <td><a href="여기에_링크_붙여넣기">보러가기</a></td>
+      <td>N으로 표현</td>
+      <td>Level 3</td>
+      <td><a href="프로그래머스/3/42895. N으로 표현/N으로 표현.py">보러가기</a></td>
     </tr>
     <tr>
       <td>예시</td>
