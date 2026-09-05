@@ -1,0 +1,17 @@
+* 지역에서 선언한 정수형 변수를 그 안 지역에서 쓰고 싶을 때는 nonlocal(전역변수를 지역에서 쓸 때 global)
+    def solution():
+        a = 0
+
+        def solved():
+            nonlocal a
+            a = 1
+
+* 지역에서 선언한 배열을 그 안 지역에서 쓸 때 요소 값은 바꿀 수 있지만, 동일한 이름을 새로 초기화할 수 없음. 이때도 nonlocal 사용하기
+    def solution():
+        lst = [1, 2, 3]
+
+        def solved():
+            nonlocal lst
+            c = i for i in range(10)
+            lst = c.copy()
+
