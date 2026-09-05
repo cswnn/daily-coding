@@ -84,7 +84,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     </tr>
     <!-- 완전탐색(Brute-Force Search) 섹션     ============================== --> 
     <tr>
-      <td rowspan="2"><b>Brute-Force</b></td>
+      <td rowspan="3"><b>Brute-Force</b></td>
       <td>소수찾기</td>
       <td>Level 2</td>
       <td><a href="프로그래머스/2/42839. 소수 찾기/소수 찾기.py">보러가기</a></td>
@@ -93,6 +93,11 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td>카펫</td>
       <td>Level 2</td>
       <td><a href="프로그래머스/2/42842. 카펫/카펫.py">보러가기</a></td>
+    </tr>
+    <tr>
+      <td>피로도</td>
+      <td>Level 2</td>
+      <td><a href="프로그래머스/2/87946. 피로도/피로도.py">보러가기</a></td>
     </tr>
     <!-- 탐욕법(Greedy) 섹션                   ============================== --> 
     <tr>
