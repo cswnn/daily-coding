@@ -100,9 +100,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td><a href="프로그래머스/2/87946. 피로도/피로도.py">보러가기</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td><a href="">보러가기</a></td>
+      <td>양궁대회</td>
+      <td>Level 2</td>
+      <td><a href="프로그래머스/2/92342. 양궁대회/양궁대회.py">보러가기</a></td>
     </tr>
     <!-- 탐욕법(Greedy) 섹션                   ============================== --> 
     <tr>
