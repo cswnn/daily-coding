@@ -84,7 +84,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     </tr>
     <!-- 완전탐색(Brute-Force Search) 섹션     ============================== --> 
     <tr>
-      <td rowspan="4"><b>Brute-Force</b></td>
+      <td rowspan="5"><b>Brute-Force</b></td>
       <td>소수찾기</td>
       <td>Level 2</td>
       <td><a href="프로그래머스/2/42839. 소수 찾기/소수 찾기.py">보러가기</a></td>
@@ -107,7 +107,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <tr>
       <td>혼자서 하는 틱택토</td>
       <td>Level 2</td>
-      <td><a href="프로그래머스/2/92342. 양궁대회/양궁대회.py">보러가기</a></td>
+      <td><a href="프로그래머스/2/160585. 혼자서 하는 틱택토/혼자서 하는 틱택토.py">보러가기</a></td>
     </tr>
     <!-- 탐욕법(Greedy) 섹션                   ============================== --> 
     <tr>
