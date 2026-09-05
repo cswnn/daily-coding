@@ -133,7 +133,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <tr>
       <td>게임 맵 최단거리</td>
       <td>Level 2</td>
-      <td><a href="프로그래머스/2/1844. 게임 맵 최단거리/게임 맵 최단거리">보러가기</a></td>
+      <td><a href="프로그래머스/2/1844. 게임 맵 최단거리/게임 맵 최단거리.py">보러가기</a></td>
     </tr>
   </tbody>
   <!-- 이분탐색(Binary Search) 섹션             ============================== --> 
