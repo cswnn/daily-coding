@@ -138,7 +138,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     <tr>
       <td>단어 변환</td>
       <td>Level 3</td>
-      <td><a href="프로그래머스/3/43163. 단어 변환/단어 변환.py">보러가기</a></td>
+      <td><a href="프로그래머스/3/43163. 단어 변환/단어 변환.py">보러가기</a></td>
     </tr>
   </tbody>
   <!-- 이분탐색(Binary Search) 섹션             ============================== --> 
