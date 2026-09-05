@@ -267,6 +267,18 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td>알고리즘(DP)</td>
       <td>Level 3</td>
     </tr>
+    <tr>
+      <td>3</td>
+      <td>양궁대회</td>
+      <td>알고리즘(완전탐색)</td>
+      <td>Level 2</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>혼자서 하는 틱택토</td>
+      <td>알고리즘(완전탐색)</td>
+      <td>Level 2</td>
+    </tr>
       
   </tbody>
 </table>
