@@ -120,7 +120,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     </tr>
     <!-- 깊이/너비 우선 탐색(DFS / BFS) 섹션      ============================== -->
     <tr>
-      <td rowspan="99"><b>DFS / BFS</b></td>
+      <td rowspan="3"><b>DFS / BFS</b></td>
       <td>타겟넘버</td>
       <td>Level 2</td>
       <td><a href="프로그래머스/2/43165. 타겟 넘버/타겟 넘버.py">보러가기</a></td>
@@ -129,6 +129,11 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td>네트워크</td>
       <td>Level 3</td>
       <td><a href="프로그래머스/3/43162. 네트워크/네트워크.py">보러가기</a></td>
+    </tr>
+    <tr>
+      <td>게임 맵 최단거리</td>
+      <td>Level 2</td>
+      <td><a href="프로그래머스/2/1844. 게임 맵 최단거리/게임 맵 최단거리">보러가기</a></td>
     </tr>
   </tbody>
   <!-- 이분탐색(Binary Search) 섹션             ============================== --> 
