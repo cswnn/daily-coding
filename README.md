@@ -239,6 +239,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td>Level 2</td>
       <td><a href="프로그래머스/2/59041. 동명 동물 수 찾기/동명 동물 수 찾기.sql">보러가기</a></td>
     </tr>
+    <tr>
+      <td>8</td>
+      <td>년， 월， 성별 별 상품 구매 회원 수 구하기</td>
+      <td>Level 4</td>
+      <td><a href="프로그래머스/4/131532. 년， 월， 성별 별 상품 구매 회원 수 구하기/년， 월， 성별 별 상품 구매 회원 수 구하기.sql">보러가기</a></td>
+    </tr>
       
   </tbody>
 </table>
@@ -278,6 +284,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td>혼자서 하는 틱택토</td>
       <td>알고리즘(완전탐색)</td>
       <td>Level 2</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>년, 월, 성별 별 상품 구매 회원 수 구하기</td>
+      <td>데이터베이스</td>
+      <td>Level 4</td>
     </tr>
       
   </tbody>
