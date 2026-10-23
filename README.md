@@ -250,6 +250,24 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td>Level 4</td>
       <td><a href="프로그래머스/4/131532. 년， 월， 성별 별 상품 구매 회원 수 구하기/년， 월， 성별 별 상품 구매 회원 수 구하기.sql">보러가기</a></td>
     </tr>
+    <tr>
+      <td>9</td>
+      <td>즐겨찾기가 가장 많은 식당 정보 출력하기</td>
+      <td>Level 3</td>
+      <td><a href="프로그래머스/3/131123. 즐겨찾기가 가장 많은 식당 정보 출력하기/즐겨찾기가 가장 많은 식당 정보 출력하기.sql">보러가기</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기</td>
+      <td>Level 2</td>
+      <td><a href="프로그래머스/2/151137. 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기/자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기.sql">보러가기</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>카테고리 별 도서 판매량 집계하기</td>
+      <td>Level 3</td>
+      <td><a href="프로그래머스/3/144855. 카테고리 별 도서 판매량 집계하기/카테고리 별 도서 판매량 집계하기.sql">보러가기</a></td>
+    </tr>
       
   </tbody>
 </table>
