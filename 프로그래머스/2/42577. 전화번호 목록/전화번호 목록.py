@@ -1,19 +1,23 @@
 def solution(phone_book):
     answer = True
     
-    # 자기자신의 일부를 잘라 목록에 있는지 확인
     # 중복 x
-    
-    # 번호길이 순 정렬 필요한가? - 아닐 거 같음
-    
-    # 해시 탐색용 집합
-    _phone_book = set(phone_book) 
-    
-    # 길이 1부터 자기자신 길이-1까지 모든 경우의 수 반복.
-    for num in phone_book:
-        n = len(num)
-        for i in range(1, n): # 자기자신과 동일 제외한 모든 자릿수
-            if num[0 : i] in _phone_book:
-                return False
+#     phone_book.sort(key=lambda x: len(x))
 
-    return True 
+#     for i in range(len(phone_book)):
+#         # for j in range(i+1, len(phone_book)):
+#         s = set(phone_book[j][:len(phone_book[i])] for j in range(i+1, len(phone_book)))
+#         if phone_book[i] in s:
+#             answer = False
+#             break
+    
+    _phone_book = set(phone_book)
+    for i in phone_book: # i: each phone number
+        now = "" # prefix of i
+        for j in i: 
+            now += j # add prefix
+            if now in _phone_book and now != i: # not itself but prefix is in phone_book
+                answer = False
+                return answer
+    
+    return answer
