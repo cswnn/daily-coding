@@ -1,17 +1,20 @@
 def solution(numbers, target):
     answer = 0
     
-    # n개의 수를 순서 그대로 더하거나 빼서 target 만들고, 가능한 방법 수 리턴
-    # 길이: 2이상 20이하, 각 숫자: 1이상 50이하, 타겟: 1이상 1000이하
+    # +, - 해서 타겟넘버 만들 수 있는 경우의 수 출력
     
-    # DFS 활용
-    def dfs(present, total):
-        if present < len(numbers):
-            return dfs(present + 1, total + numbers[present]) \
-                    + dfs(present + 1, total - numbers[present])
+    n = len(numbers)
+    
+    def dfs(curr, N, total):
+        nonlocal answer
+        
+        if curr < n:
+            dfs(curr + 1, N, total + numbers[curr])
+            dfs(curr + 1, N, total - numbers[curr])
         else:
-            return 1 if total == target else 0
+            if total == target:
+                answer += 1
     
-    answer = dfs(0, 0)
-            
+    dfs(0, n, 0)
+        
     return answer
