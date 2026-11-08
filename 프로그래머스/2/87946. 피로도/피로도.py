@@ -3,19 +3,23 @@ from itertools import permutations
 def solution(k, dungeons):
     answer = -1
     
-    _k = k
-    
-    # 탐험할 수 있는 최대 던전 수 리턴
-    for p in permutations(dungeons):
+    # 탐험할 수 있는 최대 던전 수 출력
+    for cases in permutations(dungeons):
+        _k = k
         cnt = 0
-        for least, take in p:
-            if k >= least:
+        # print(cases)
+        # print("=====")
+        for need, consume in cases:
+            # print(need, consume)
+            if need <= _k:
+                # print(_k, need, consume)
+                _k -= consume
                 cnt += 1
-                k -= take
             else:
+                # answer = cnt
                 break
-        k = _k
-        
-        answer = max(cnt, answer)
+                # print(cases, cnt)
+        answer = max(answer, cnt)
+        # print(cnt)
     
     return answer
