@@ -49,6 +49,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
       <td>데이터베이스</td>
       <td>Level 4</td>
     </tr>
+    <tr>
+      <td>6</td>
+      <td>최대상금</td>
+      <td>알고리즘(백트래킹)</td>
+      <td>D3</td>
+    </tr>
       
   </tbody>
 </table>
